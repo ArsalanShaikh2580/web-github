@@ -1,0 +1,35 @@
+.col-4{
+    border: 2px solid greenyellow;   
+}
+
+.col-8{
+     border: 2px solid green;
+}
+
+.head{
+    background-color: aquamarine;
+
+}
+
+.navbar{
+    background-color: burlywood;
+}
+
+.side{
+    background-color: cadetblue;
+}
+
+.aside{
+    background-color: bisque;
+
+
+}
+
+.footer{
+
+    background-color: red;
+}
+
+.container{
+    background-color: burlywood;
+}
